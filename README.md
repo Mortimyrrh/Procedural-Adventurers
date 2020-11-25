@@ -7,16 +7,16 @@ A 2D platformer with procedural level generation, procedural soundtrack and proc
 
 # Download
 
-MacOS Aplication: 
+MacOS Aplication: https://drive.google.com/drive/folders/1TK5GLo0wNiUfMnVlu7F597fRLAX5pDdC?usp=sharing
 
+Note the App must be in the same folder as the included data folder to run.
 
 # Controls	
 Arrow keys:	to move and jump.
 Space Bar:  to change hat colour.
 
 
-# Note
- - App must be in the same folder as the data folder to run.
+
  
 
 # Source Dependencies
