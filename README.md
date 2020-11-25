@@ -5,6 +5,10 @@ A 2D platformer with procedural level generation, procedural soundtrack and proc
 
 - Explore a new world every time!
 
+# Download
+
+MacOS Aplication: 
+
 
 # Controls	
 Arrow keys:	to move and jump.
