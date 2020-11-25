@@ -1,3 +1,0 @@
-ofxHID
-ofxIO
-ofxPoco

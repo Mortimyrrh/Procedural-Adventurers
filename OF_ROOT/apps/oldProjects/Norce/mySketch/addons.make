@@ -1,2 +1,0 @@
-ofxArcText-master
-ofxTrueTypeFontUC-master

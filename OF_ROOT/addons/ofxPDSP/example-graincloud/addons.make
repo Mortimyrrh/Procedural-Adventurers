@@ -1,4 +1,0 @@
-ofxMidi
-ofxOsc
-ofxPDSP
-ofxSIMDFloats

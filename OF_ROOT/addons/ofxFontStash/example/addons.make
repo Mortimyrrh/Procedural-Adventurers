@@ -1,2 +1,0 @@
-ofxFontStash
-ofxTimeMeasurements
