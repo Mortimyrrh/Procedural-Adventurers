@@ -1,0 +1,35 @@
+#example bin
+unitTests/bin/unitTestsDebug
+example/bin/exampleDebug
+build-unitTests-Desktop-Debug/
+build-example-Desktop-Debug/
+example/bin/example_debug
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
