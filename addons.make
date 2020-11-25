@@ -1,0 +1,7 @@
+ofxGui
+ofxLSystemGrammar-master
+ofxMidi
+ofxOsc
+ofxPDSP
+ofxSIMDFloats
+ofxTrueTypeFontUC-master
